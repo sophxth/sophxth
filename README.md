@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophxth
 - 👀 I’m interested in HTML, Javascript, C++ and more ^.^
-- 🌱 I’m currently learning Java, R and Python
+- 🌱 I’m proficient in Java, R, Python, etc.
 - 💞️ I’m looking to collaborate on any small games and projects!
 - 📫 How to reach me! insta: @sophixthai_ || personal email: tramsophia.thai@gmail.com
 - 😄 Pronouns: she/ her
